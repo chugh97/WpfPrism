@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPrism", "WpfPrism\WpfPrism.csproj", "{BC1B4D81-BB32-41A6-92CA-5F01717613B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C061A92-9C97-4B22-B105-ED7A4C9C9D4F}"
+	ProjectSection(SolutionItems) = preProject
+		Microsoft.Expression.Interactions.dll = Microsoft.Expression.Interactions.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.Prism.Composition.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+		Microsoft.Practices.Prism.Composition.dll = Microsoft.Practices.Prism.Composition.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.Interactivity\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.Interactivity\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+		Microsoft.Practices.Prism.Interactivity.dll = Microsoft.Practices.Prism.Interactivity.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.MefExtensions\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.MefExtensions\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+		Microsoft.Practices.Prism.MefExtensions.dll = Microsoft.Practices.Prism.MefExtensions.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+		Microsoft.Practices.Prism.PubSubEvents.dll = Microsoft.Practices.Prism.PubSubEvents.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+		Microsoft.Practices.Prism.SharedInterfaces.dll = Microsoft.Practices.Prism.SharedInterfaces.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.UnityExtensions\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.UnityExtensions\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+		Microsoft.Practices.Prism.UnityExtensions.dll = Microsoft.Practices.Prism.UnityExtensions.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.ServiceLocation.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+		Microsoft.Practices.ServiceLocation.dll = Microsoft.Practices.ServiceLocation.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.UnityExtensions\bin\Debug\Microsoft.Practices.Unity.Configuration.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.UnityExtensions\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+		Microsoft.Practices.Unity.Configuration.dll = Microsoft.Practices.Unity.Configuration.dll
+		..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.UnityExtensions\bin\Debug\Microsoft.Practices.Unity.dll = ..\..\Users\Tina\Downloads\Prism\PrismLibrary\Desktop\Prism.UnityExtensions\bin\Debug\Microsoft.Practices.Unity.dll
+		Microsoft.Practices.Unity.dll = Microsoft.Practices.Unity.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prism.Infrastructure", "Prism.Infrastructure\Prism.Infrastructure.csproj", "{08F79664-EA97-4FF8-8132-5D4FA1C35369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPrism.Modules", "WpfPrism.Modules\WpfPrism.Modules.csproj", "{7D13594E-36BB-41EC-9982-FFC35821B8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1B4D81-BB32-41A6-92CA-5F01717613B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1B4D81-BB32-41A6-92CA-5F01717613B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1B4D81-BB32-41A6-92CA-5F01717613B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1B4D81-BB32-41A6-92CA-5F01717613B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F79664-EA97-4FF8-8132-5D4FA1C35369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F79664-EA97-4FF8-8132-5D4FA1C35369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F79664-EA97-4FF8-8132-5D4FA1C35369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F79664-EA97-4FF8-8132-5D4FA1C35369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D13594E-36BB-41EC-9982-FFC35821B8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D13594E-36BB-41EC-9982-FFC35821B8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D13594E-36BB-41EC-9982-FFC35821B8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D13594E-36BB-41EC-9982-FFC35821B8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
