@@ -48,6 +48,7 @@ namespace WpfPrism.Modules.Controllers
             if (view == null)
             {
                 view = container.Resolve<ProductView>();
+                view.ViewModel.Products.Clear();
                 SetViewModel(products, view);
                 mainRegion.Add(view, "ProductView");
             }
